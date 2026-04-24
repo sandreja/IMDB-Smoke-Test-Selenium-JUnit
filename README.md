@@ -1,5 +1,3 @@
-Prvi Smoke Test / First Smoke Test
-
 EN
 
 My first real automated testing project. A smoke test suite for the IMDB website built with Selenium WebDriver, JUnit, and the Page Object Model (POM) design pattern. The tests cover core functionality including sign in options, search, and the Top 250 movies page.
